@@ -1,0 +1,72 @@
+2024-09-18 17:22:32.089 INFO [main] [Main.main(Main.java:23)] - Sart the race. Number of partisipiants: 7
+2024-09-18 17:26:18.048 INFO [main] [Main.main(Main.java:23)] - Початок стрибків. Кільксть учасників: 7
+2024-09-18 17:26:38.600 INFO [main] [Main.main(Main.java:32)] - Закінчення стрибків. Переможець: Pegasus
+2024-09-18 17:37:19.455 INFO [main] [Horse.<init>(Horse.java:27)] - Distance is negative
+2024-09-18 17:37:19.459 INFO [main] [Horse.<init>(Horse.java:14)] - Name is null
+2024-09-18 17:37:19.777 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.778 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.797 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.798 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.807 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.808 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.817 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.819 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.826 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.827 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.836 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.837 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.843 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.844 INFO [main] [Horse.<init>(Horse.java:18)] - Name is blank
+2024-09-18 17:37:19.875 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.529 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.543 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.552 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.560 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.568 INFO [main] [Horse.<init>(Horse.java:23)] - Speed is negative
+2024-09-18 17:37:24.570 INFO [main] [Horse.<init>(Horse.java:14)] - Name is null
+2024-09-18 17:37:24.579 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.590 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.596 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.633 INFO [main] [Horse.<init>(Horse.java:14)] - Name is null
+2024-09-18 17:37:24.635 INFO [main] [Horse.<init>(Horse.java:14)] - Name is null
+2024-09-18 17:37:24.645 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [someName], швидкість [1.0]
+2024-09-18 17:37:24.659 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse0], швидкість [1.0]
+2024-09-18 17:37:24.661 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse1], швидкість [1.0]
+2024-09-18 17:37:24.662 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse2], швидкість [1.0]
+2024-09-18 17:37:24.662 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse3], швидкість [1.0]
+2024-09-18 17:37:24.663 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse4], швидкість [1.0]
+2024-09-18 17:37:24.664 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse5], швидкість [1.0]
+2024-09-18 17:37:24.664 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse6], швидкість [1.0]
+2024-09-18 17:37:24.665 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse7], швидкість [1.0]
+2024-09-18 17:37:24.665 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse8], швидкість [1.0]
+2024-09-18 17:37:24.666 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse9], швидкість [1.0]
+2024-09-18 17:37:24.666 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse10], швидкість [1.0]
+2024-09-18 17:37:24.667 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse11], швидкість [1.0]
+2024-09-18 17:37:24.668 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse12], швидкість [1.0]
+2024-09-18 17:37:24.668 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse13], швидкість [1.0]
+2024-09-18 17:37:24.669 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse14], швидкість [1.0]
+2024-09-18 17:37:24.669 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse15], швидкість [1.0]
+2024-09-18 17:37:24.670 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse16], швидкість [1.0]
+2024-09-18 17:37:24.670 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse17], швидкість [1.0]
+2024-09-18 17:37:24.671 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse18], швидкість [1.0]
+2024-09-18 17:37:24.671 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse19], швидкість [1.0]
+2024-09-18 17:37:24.672 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse20], швидкість [1.0]
+2024-09-18 17:37:24.672 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse21], швидкість [1.0]
+2024-09-18 17:37:24.672 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse22], швидкість [1.0]
+2024-09-18 17:37:24.673 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse23], швидкість [1.0]
+2024-09-18 17:37:24.673 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse24], швидкість [1.0]
+2024-09-18 17:37:24.674 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse25], швидкість [1.0]
+2024-09-18 17:37:24.674 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse26], швидкість [1.0]
+2024-09-18 17:37:24.675 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse27], швидкість [1.0]
+2024-09-18 17:37:24.675 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse28], швидкість [1.0]
+2024-09-18 17:37:24.675 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [Horse29], швидкість [1.0]
+2024-09-18 17:37:24.677 INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - створення Hippodrome, коней [30]
+2024-09-18 17:37:24.715 INFO [main] [Hippodrome.<init>(Hippodrome.java:16)] - Horses list is null
+2024-09-18 17:37:24.718 INFO [main] [Hippodrome.<init>(Hippodrome.java:16)] - Horses list is null
+2024-09-18 17:37:24.738 INFO [main] [Hippodrome.<init>(Hippodrome.java:19)] - Horses list is empty
+2024-09-18 17:37:24.739 INFO [main] [Hippodrome.<init>(Hippodrome.java:16)] - Horses list is null
+2024-09-18 17:37:24.874 INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - створення Hippodrome, коней [50]
+2024-09-18 17:37:24.972 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [name1], швидкість [2.0]
+2024-09-18 17:37:24.973 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [name2], швидкість [2.0]
+2024-09-18 17:37:24.973 INFO [main] [Horse.<init>(Horse.java:34)] - створення Horse, ім'я [name3], швидкість [2.0]
+2024-09-18 17:37:24.974 INFO [main] [Hippodrome.<init>(Hippodrome.java:24)] - створення Hippodrome, коней [3]
